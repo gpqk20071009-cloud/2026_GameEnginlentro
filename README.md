@@ -1,2 +1,4 @@
-# 2026_GameEnginlentro
-게임엔진입문 프로젝트
+# 2026\_GameEnginlentro
+
+2026 게임기획서\_이정헌
+
